@@ -1,8 +1,8 @@
 - 👋 Hi, ’m Matheus
 - 👀 I’m interested in  Back-end and web developer  and machine learning
 - 🌱 I’m currently learning  Python, HTML, CSS, Javascript and Mysql
-- 💞️  meu linkedin: Matheus victor Henrique
-- 📫 Contate me no email: matheusvictorhenrique@gmail.com
+- 💞️  Faço  A.D.S na uninassau
+- 📫Tenho 18 anos
 
 
   <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
