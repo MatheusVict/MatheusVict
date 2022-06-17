@@ -1,6 +1,6 @@
 - 👋 Hi, ’m Matheus
 - 👀 I’m interested in  Back-end and web developer  and machine learning
-- 🌱 I’m currently learning  Python, HTML, CSS, Javascript and Mysql
+- 🌱 I’m currently learning  Python, HTML, CSS, Javascript, Mysql, Nodejs and Flask
 - 💞️  Faço  A.D.S na uninassau
 - 📫Tenho 18 anos
 
