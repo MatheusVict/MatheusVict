@@ -18,7 +18,10 @@
   <img align="center" alt="matheus-mysql" height="57" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="matheus-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="matheus-flask" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg">
-  <img align="right" height="50" width="100" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
+  <div align="right">
+  <img src="https://img.shields.io/github/followers/MatheusVict.svg?style=social&label=Follow&maxAge=2592000">
+  </div>
+  <img align="right"  src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
 </div>
   
 ##
