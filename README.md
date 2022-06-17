@@ -21,7 +21,7 @@
   <div align="right">
   <img src="https://img.shields.io/github/followers/MatheusVict.svg?style=social&label=Follow&maxAge=2592000">
   </div>
-  <img align="right"  src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
+
 </div>
   
 ##
