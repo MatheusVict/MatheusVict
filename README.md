@@ -1,14 +1,16 @@
-- 👋 Hi, ’m Matheus
-- 👀 I’m interested in Full-Stack web developer and machine learning
-- 📚Cursando Ánalise e desenvolvimento de sistemas
-- 🎮Amante de jogos
-- 🏎Fã de automobilismo
+<div>
+<img with="150" src="https://64.media.tumblr.com/tumblr_ll6mqsfkkg1qfmbxeo1_400.gifv" align="left"><br>
+<h1>👋 Hi, ’m Matheus</h1>
+<p>- 👀 I’m interested in Full-Stack web developer and machine learning<br>
+- 📚Cursando Ánalise e desenvolvimento de sistemas<br>
+- 🎮Amante de jogos<br>
+- 🏎Fã de automobilismo</p></div><br>
 <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVict&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVict&layout=compact&langs_count=16&theme=blue-green"/>
-</div>
 
-<h2 align="center">Hard skills🖥:<h2>
+
+<h2 align="center">Hard skills🖥:</h2>
 <div style="dispay: inline_block"><br>
   <img align="center" alt="matheus-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="matheus-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +32,7 @@
   </div>
 
 </div><br>
-  <h2 align="center">learning♟:<h2>
+  <h2 align="center">learning♟:</h2>
   <div style="display: inline_block" align="center">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -41,7 +43,7 @@
 
 
 <div>
-  <h2 align="center">Contact📱:<h2>
+  <h2 align="center">Contact📱:</h2>
   <a href="https://instagram.com/matheus_cipher" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/akira cipher#6272" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusvictorhenrique@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
