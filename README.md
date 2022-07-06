@@ -1,5 +1,8 @@
 - 👋 Hi, ’m Matheus
-- 👀 I’m interested in  Back-end and web developer  and machine learning
+- 👀 I’m interested in Full-Stack web developer and machine learning
+- 📚Cursando Ánalise e desenvolvimento de sistemas
+- 🎮Amante de jogos
+- 🏎Fã de automobilismo
 <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVict&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVict&layout=compact&langs_count=16&theme=blue-green"/>
