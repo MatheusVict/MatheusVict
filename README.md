@@ -1,5 +1,5 @@
 <div>
-<img width="300" src="https://64.media.tumblr.com/tumblr_ll6mqsfkkg1qfmbxeo1_400.gifv" align="left"><br>
+<img width="280" src="https://64.media.tumblr.com/tumblr_ll6mqsfkkg1qfmbxeo1_400.gifv" align="left"><br>
 <h1>👋 Hi, ’m Matheus</h1>
 <p>- 👀 I’m interested in Full-Stack web developer and machine learning<br>
 - 📚Cursando Ánalise e desenvolvimento de sistemas<br>
