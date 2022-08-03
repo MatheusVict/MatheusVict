@@ -1,10 +1,10 @@
 <div>
-<img width="280" src="https://64.media.tumblr.com/tumblr_ll6mqsfkkg1qfmbxeo1_400.gifv" align="left"><br>
+<div align="center">
 <h1>👋 Hi, ’m Matheus</h1>
-<p>- 👀 I’m interested in Full-Stack web developer and machine learning<br>
-- 📚Cursando Ánalise e desenvolvimento de sistemas<br>
-- 🎮Amante de jogos<br>
-- 🏎Fã de automobilismo</p></div><br>
+</div>
+<p>- 👀 I’m interested in Full-Stack web developer and machine learning</p>
+<p>- 📚Cursando Ánalise e desenvolvimento de sistemas</p>
+</div><br>
 <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVict&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVict&layout=compact&langs_count=16&theme=blue-green"/>
