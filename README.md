@@ -32,8 +32,9 @@
 
 </div><br>
   <h2 align="center">learning♟:</h2>
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block;" align="center">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </div><br><hr>
   
