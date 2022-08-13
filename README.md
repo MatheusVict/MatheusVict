@@ -2,7 +2,7 @@
 <div align="center">
 <h1>👋 Hi devs, ’m Matheus</h1>
 </div>
-<p>- 👀 I’m interested in Full-Stack web developer and machine learning</p>
+<p>- 👀 I’m interested in web developer and machine learning</p>
 <p>- 📚Cursando Ánalise e desenvolvimento de sistemas</p>
 </div><br>
 <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
