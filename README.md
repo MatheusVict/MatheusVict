@@ -25,9 +25,8 @@
   <img align="center" src="https://camo.githubusercontent.com/92407fc26e09271d8137b8aaf1585b266f04046b96f1564dfe5a69f146e21301/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465">
   <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <div align="right">
-  <img  align="right" src="https://img.shields.io/github/followers/MatheusVict.svg?style=social&label=Follow&maxAge=2592000">
+    <img  align="right" src="https://img.shields.io/github/followers/MatheusVict.svg?style=social&label=Follow&maxAge=2592000">
   </div>
 
 </div><br>
