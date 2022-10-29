@@ -1,6 +1,6 @@
 <div>
-<div align="center">
-<h1>👋 Hi devs, ’m Matheus</h1>
+  <div align="center">
+  <h1>👋 Hi devs, ’m Matheus</h1>
 </div>
 <p>- 👀 I’m interested in web developer and machine learning</p>
 </div><br>
