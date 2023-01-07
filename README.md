@@ -4,7 +4,7 @@
 ##### - 👀 I’m interested in web developer and machine learning
 
 <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVict&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusVict&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVict&layout=compact&langs_count=16&theme=blue-green"/>
 </a>
 
@@ -32,6 +32,7 @@
  
   ![next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
 
@@ -40,7 +41,14 @@
  <a href="https://discord.gg/akira cipher#6272" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusvictorhenrique@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  </div>
 </div>
 
-![Snake animation](https://github.com/MatheusVict/MatheusVict/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusVict&theme=vue)
+  
+</div>
+
+
+
