@@ -42,10 +42,7 @@
   </div>
 </div>
 
-<div align="center">
-  
-![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusVict&theme=vue)
-  
+<div align="center">  
 </div>
 
 
