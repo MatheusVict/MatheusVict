@@ -11,7 +11,7 @@
   
 ### Contact:
 
- <a href = "https://www.linkedin.com/in/matheus-victor-henrique/">
+ <a href = "https://www.linkedin.com/in/matheus-victor-henrique/en">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
