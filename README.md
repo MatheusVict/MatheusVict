@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://gitlab.com/MatheusVict" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <a href="youtube.com/@matheusvictorhenrique" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
  <a href="https://discord.com/users/411680946530811906" target="_blank">
