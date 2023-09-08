@@ -9,10 +9,6 @@ I'm always looking for the best and most performant way to do everything.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
-  <a href = "mailto:matheusvictorhenrique@gmailcom">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-
   <a href="youtube.com/@matheusvictorhenrique" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
