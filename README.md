@@ -7,7 +7,7 @@ I'm always looking for the best and most performant way to do everything.
   
 ### Contact Me:
 
- <a href = "https://www.linkedin.com/in/matheus-victor-henrique/en">
+ <a href = "https://www.linkedin.com/in/matheus-victor-henrique">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
