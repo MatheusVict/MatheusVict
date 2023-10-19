@@ -14,10 +14,6 @@ I'm always looking for the best and most performant way to do everything.
   <a href="https://www.youtube.com/@matheusvictorhenrique" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  
- <a href="https://discord.com/users/411680946530811906" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>  
 
 ### Languages and tools:
 
