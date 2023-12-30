@@ -34,7 +34,7 @@ I'm always looking for the best and most performant way to do everything.
 
 ### Frameworks:
  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![nest](https://camo.githubusercontent.com/0dbbdfc31491dc81b7b873e69f2fceecaaa0494b73504edbbd8828f716aab6f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d4530323334453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465)
+![nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
  ![android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
