@@ -1,8 +1,8 @@
   
 ## 👋 Hello there, ’m Matheus
-I'm a software developer with a passion for technologies and innovation. I've been working as a back-end, mobile and studying about infrastructure.
+I'm a software developer with a passion for technologies and innovation. I've been working as a back-end and studying about infrastructure.
 Besides loving reverse engineering
-</br>
+
 I'm always looking for the best and most performant way to do everything.
   
 ### Contact Me:
