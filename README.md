@@ -1,4 +1,3 @@
-  
 ## 👋 Hello there, ’m Matheus
 I'm a software developer with a passion for technologies and innovation. I've been working as a back-end and studying about infrastructure.
 Besides loving reverse engineering
@@ -37,7 +36,7 @@ I'm always looking for the best and most performant way to do everything.
  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
  ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
- ![android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
