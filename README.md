@@ -1,6 +1,6 @@
 ## 👋 Hello there, ’m Matheus
 I'm a software developer with a passion for technologies and innovation. I've been working as a back-end and studying about infrastructure.
-Besides loving reverse engineering
+Besides loving reverse engineering and being a Android enthusiast
 
 I'm always looking for the best and most performant way to do everything.
   
